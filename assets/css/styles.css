@@ -9,6 +9,9 @@
 .amarillo{
     color: #ffe658;
 }
+.hover:hover{
+color: gold;
+}
 *{
     padding: 0px;
     margin:  0px;
